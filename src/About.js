@@ -8,7 +8,7 @@ JavaScript and modern web technologies.
 </p>
 <p>
 My goal is to develop responsive and interactive
-web applications.
+web applications, this is Sandeep writing parctical test CIE-1.
 </p>
 </div>
 );
